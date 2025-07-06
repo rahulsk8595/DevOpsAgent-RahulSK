@@ -1,0 +1,6 @@
+📂 Logs retrieved for analysis.
+🧠 [MOCK] Root Cause Analysis from LLM:
+The high CPU usage was likely caused by an infinite loop running in a process.
+
+Suggested Remediation:
+- Restart the container or service consuming excessive CPU resources.
